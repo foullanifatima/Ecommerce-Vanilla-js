@@ -1,2 +1,2 @@
 # Ecommerce-Vanilla-js
-Create simple e-commerce website that contain basic functions using vanilla Js
+Create a basic e-commerce website using vanilla JavaScript.
